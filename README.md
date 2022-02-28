@@ -79,4 +79,7 @@ This route deletes a reaction to a post by targeting the corresponding thoughtId
 ## Walkthrough Videos
 Here's a link to the first walkthrough video: https://watch.screencastify.com/v/dnU3Hdek4wUWkbjCO9QZ
 
-Link to Second Video: 
+Link to Second Video Part 1: https://watch.screencastify.com/v/ctFxhUNG1xsXDbUkGYD1
+
+Link to Second Video Part 2: https://watch.screencastify.com/v/1zFgYyUhaBnbQbekf60z
+
