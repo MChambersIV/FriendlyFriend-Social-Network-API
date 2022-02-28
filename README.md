@@ -77,6 +77,6 @@ This route deletes a reaction to a post by targeting the corresponding thoughtId
 ![DELETE Thought Reaction](./RM-images/Thought/deleteThoughtReaction.png "DELETE route for thought reaction.")
 
 ## Walkthrough Videos
-Here's a link to the first walkthrough video: https://watch.screencastify.com/v/QxEEZpL3oL6DizWLhyrf
+Here's a link to the first walkthrough video: https://watch.screencastify.com/v/dnU3Hdek4wUWkbjCO9QZ
 
 Link to Second Video: 
